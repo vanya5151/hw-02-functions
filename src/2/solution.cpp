@@ -1,1 +1,4 @@
-int min(int a, int b){ /* YOUR CODE HERE */}
+int min(int a, int b){ 
+    return a<b ? a : b;
+
+}
